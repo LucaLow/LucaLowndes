@@ -1,0 +1,58 @@
+.logo{
+    width: 60px;
+    object-fit: cover;
+    height: 60px;
+    border: none;
+    background: none;
+    display: inline-block;
+    float: right;
+}
+.logo-image{
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 10px
+}
+.back{
+    background-image: url("https://images.hdqwalls.com/wallpapers/abstract-simple-background-4k-lp.jpg");
+    background-repeat: no-repeat;
+}
+.centred {
+    text-align: center;
+}
+.crd {
+    width: 25%;
+    display: inline-block;
+    background-color: #ffffff42;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    padding: 10px;
+    object-fit: cover;
+    height: 350px;
+}
+p{
+    font-family: "Times New Roman", Times, serif;
+    line-height: 10px;
+    font-size: 1.9vw;
+    color: #000000;
+}
+h1{
+    font-weight: 102;
+    font-size: 70px;
+    padding: 15vh;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    height: 50px;
+    width: 100%;
+    background-color:#1c4670a3;
+}
+.header-element{
+    padding-top: 5px;
+    padding-left: 20px;
+}

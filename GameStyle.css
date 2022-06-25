@@ -1,0 +1,26 @@
+.centered{
+    text-align: center;
+}
+h1{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    padding: 1.2vh;
+}
+h2{
+    padding: 1.3vh;
+}
+.gwindow{
+    border-radius: 10%;
+}
+.gcard{
+    width: 25%;
+    margin: 12px;
+    display: inline-block;
+}
+.container{
+    display: inline-block;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
